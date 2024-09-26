@@ -20,6 +20,8 @@ public class task1409 {
 
         out.println(not_g);
         out.println(not_l);
+
         out.flush();
+        in.close();
     }
 }
