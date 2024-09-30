@@ -1,6 +1,5 @@
 package lr1;
 
-import java.security.spec.RSAOtherPrimeInfo;
 import java.util.Scanner;
 
 public class Homework1 {
