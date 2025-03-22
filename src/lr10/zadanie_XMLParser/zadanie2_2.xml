@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><employees>
+    <employee>
+        <full_name>Иванов И.И.</full_name>
+        <date_of_birth>02.02.1990</date_of_birth>
+        <position>Разработчик</position>
+    </employee>
+    <employee>
+        <full_name>Петров П.П.</full_name>
+        <date_of_birth>05.05.1988</date_of_birth>
+        <position>Менеджер</position>
+    </employee>
+<employee><full_name>Сидоров С.С.</full_name><date_of_birth>05.05.1980</date_of_birth><position>Разработчик</position></employee><employee><full_name>Иванов О.О.</full_name><date_of_birth>10.10.2000</date_of_birth><position>Тестировщик</position></employee><employee><full_name>Жуков</full_name><date_of_birth>12.12.1990</date_of_birth><position>Волшебник</position></employee><employee><full_name/><date_of_birth>05.05.1990</date_of_birth><position>Менеджер</position></employee></employees>
