@@ -21,7 +21,8 @@ public class Zadanie2 {
             firstArr[i] = random.nextInt(10);
             secondArr[i] = random.nextInt(10);
         }
-        System.out.println("Первый массив: " + Arrays.toString(firstArr) + "\nВторой массив: " + Arrays.toString(secondArr));
+        System.out.println("Первый массив: " + Arrays.toString(firstArr)
+                + "\nВторой массив: " + Arrays.toString(secondArr));
 
         int[] resultArr = FindCommonElements(firstArr, secondArr);
         System.out.println("Полученный массив:");
